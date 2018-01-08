@@ -1,0 +1,12 @@
+name: Gapminder
+title: Gapminder
+username:
+account: akshi8
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 254485
+bundleId: 1165256
+url: https://akshi8.shinyapps.io/Gapminder/
+when: 1515300573.17077
+asMultiple: FALSE
+asStatic: FALSE
