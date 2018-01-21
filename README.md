@@ -1,4 +1,4 @@
-#Shiny Tutorial on Gapminder Data
+# Shiny Tutorial on Gapminder Data
 
 
 This is a documentation of the shiny-app created using Gapminder dataset in R
